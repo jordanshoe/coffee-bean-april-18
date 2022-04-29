@@ -409,3 +409,35 @@ form input,form select,form textarea{
   
 }
 
+/* footer-2 section 10 */
+
+.footer-social{
+    /* border: 4px solid red; */
+    background-color: #19100f;
+    overflow: auto;
+}
+.social-widgets{
+    /* border: 2px dashed white; */
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    padding: .5em 0;
+}
+.social-widgets img{
+    width: 1.5em;
+}
+.social-widgets h3{
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.social-widgets a{
+    text-decoration: none;
+    /* color: #ffffff; */
+}
+.social-widgets p{
+    color: #ffffff;
+    text-transform: capitalize;
+    padding: .3em 0;
+}
+
+
